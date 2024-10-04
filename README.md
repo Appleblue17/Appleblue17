@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m interested in everything I'm interested in.
+
 🌱 I’m currently learning things I haven't learnt.
+
 💞️ I’m looking to collaborate on myself and others.
+
 📫 How to reach me ... here.
+
 ⚡ Fun fact: Haha!
