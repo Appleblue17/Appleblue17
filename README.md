@@ -15,12 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m interested in everything I'm interested in.
+### Projects
 
-🌱 I’m currently learning things I haven't learnt.
+- [Training Archive](https://github.com/Appleblue17/Training-Archive)
 
-💞️ I’m looking to collaborate on myself and others.
+An archiving tool for XCPC training teams that automatically fetch and update contest/problem/submission data to the website.
 
-📫 How to reach me ... here.
+Our team's GitHub Page: [here](https://appleblue17.github.io/Training-Archive/)
 
-⚡ Fun fact: Haha!
+- [Notesaw Preview](https://github.com/Appleblue17/Notesaw)
+
+An extention of Markdown that is primitively designed for note-taking and documentation, by adding additional features including programming-like block syntax.
+
+- [CoursePlan.search](https://scheduler.unikorn.axfff.com)
+
+An unofficial course scheduler and learning path planning tool for students at HKUST(GZ).
+
+Developed with *HKUST(GZ) Campus Forum Team*.
+
+- [VSCode C++ Environmental Configuration Guide
+](https://github.com/Appleblue17/VSCode-C-plus-plus-Environmental-Configuration-Guide)
+
+A guide to configure C/C++ language support in VS Code. Hope it will be helpful!
